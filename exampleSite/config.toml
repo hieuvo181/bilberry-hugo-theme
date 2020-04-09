@@ -1,10 +1,10 @@
 DefaultContentLanguage = "en"
-baseURL = "https://example.com/"
+baseURL = "https://hieuvo.netlify.com/"
 disqusShortname = "bilberry-hugo-theme"
 enableRobotsTXT = true
 googleAnalytics = ""
 theme = "bilberry-hugo-theme"
-title = "My cool new Blog"
+title = "Hieu Vo Blog"
 [Languages.de]
 subtitle = "Hallo Welt! Dies ist der epischste Untertitel aller Zeiten."
 title = "Mein cooler neuer Blog"
