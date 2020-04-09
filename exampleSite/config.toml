@@ -1,5 +1,5 @@
 DefaultContentLanguage = "en"
-baseURL = "https://hieuvo.netlify.com/"
+baseURL = "https://hieuvo181.netlify.com/"
 disqusShortname = "bilberry-hugo-theme"
 enableRobotsTXT = true
 googleAnalytics = ""
